@@ -6,7 +6,7 @@ import time
 from bs4 import BeautifulSoup
 
 # Set you friend name here
-FRIEND = ["name1", "name2"]
+FRIEND = ["Champpion", "Tiger Phénix", "Quilan", "gibsonmel", "chouchou24140", "redsilver", "Basiliscus 908 le Hardi", "DenisFa", "sysson76", "mike311", "Claudia 701 la Chanceuse", "boucles", "Jocaste 964 la Chasseuse", "Woody le merveilleux", "Albanodor", "evepom", "tonton1714", "JeanPhilippe63", "LATOILE", "brkhalilos", "Laurier51", "monteoiro", "Athena hiboux", "imago", "Amel26270", "Cetalami", "same90", "stma22", "Maçon565", "morrowind81", "bonhomme bleu", "DPJ1976", "Julien66470", "barbiche ASMCA", "Opium", "Philipus Gorguimus", "vichen", "COLLARD17", "Dame Cunégonde Véro", "Hippolyte 3108 la Grande", "Karine hipi", "keydrall le valeureux", "Arwen E", "Wostie", "riton61", "Lelex 79", "driksouille", "Iz0u la Chasseuse", "Vychnia", "astic64", "Geeko57", "patislegrand", "BikeBear84", "Nick le dégourdi", "AlainStar 1er", "popinus le gallois", "Remy20012802", "jack1312", "Touze56", "Boopss", "all White 71", "saudadecc", "brasier", "Flora444", "Thècle 538 la Chasseuse", "Dampachi", "Azgaran", "numis28", "Laurent 26", "Manhattan 56", "hierophent", "Tapette1er", "Saviola le sorcier", "mathrox", "La Fille Sans Nom", "Rick Roll", "Ptolémée 42 le Vertueux", "La Garce Hopper"]
 
 
 def init_log(level=10):
